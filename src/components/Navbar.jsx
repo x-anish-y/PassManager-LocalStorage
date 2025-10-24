@@ -13,7 +13,7 @@ const Navbar = () => {
                     </a>
                     <a href="https://github.com/x-anish-y/PassManager-LocalStorage.git">
                         <button className="inline-flex gap-3 items-center text-white transition-all bg-[#5b2ed6] border-0 py-1 px-3 focus:outline-none hover:bg-[#8267ff] rounded text-base mt-4 md:mt-0">Github
-                            <img className='z-10 invert' style={{ width: "20px", height: "20", zIndex: "10" }} src="./src/github.svg" alt="" />
+                            <img className='z-10 invert' style={{ width: "20px", height: "20", zIndex: "10" }} src="/github.svg" alt="" />
                         </button></a>
                 </div>
             </header>
@@ -22,3 +22,4 @@ const Navbar = () => {
 }
 
 export default Navbar
+
